@@ -1,0 +1,2 @@
+module vtalent {
+}
