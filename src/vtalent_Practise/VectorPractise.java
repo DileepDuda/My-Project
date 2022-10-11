@@ -18,16 +18,14 @@ public class VectorPractise {
 		
 		System.out.println(v.capacity());
 		
-		System.out.println(v.add("Dileep"));
-		
 		System.out.println(v.contains(2));
 		
-		System.out.println(v.elementAt(4));
+		System.out.println(v.elementAt(3));
 		
 		System.out.println(v.size());
 		
 		
-		Vector v1 = new Vector(5,10);  
+	    Vector v1 = new Vector(10,10);  
 		
 		v1.add("Madhu");                          
 		v1.add("Ramu"); 
@@ -56,6 +54,24 @@ public class VectorPractise {
 		System.out.println(v1.elementAt(4));
 		
 		System.out.println(v1.size());   //error
+		
+        Vector v2 = new Vector(5,10);  
+		
+		v2.add("Madhu");                          
+		v2.add("Ramu"); 
+		v2.add("Dileep");
+		v2.add("Madhu");                          
+		v2.add("Ramu"); 
+		v2.add("Dileep");
+		v2.add("Madhu");                          
+		v2.add("Ramu"); 
+		v2.add("Dileep");
+		v2.add("Madhu");                          
+		v2.add("Ramu"); 
+		
+		System.out.println(v2);
+		
+		System.out.println(v2.size());
 		
 	}
 

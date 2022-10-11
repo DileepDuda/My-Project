@@ -6,7 +6,7 @@ public class ArrayListEx {
 
 	public static void main(String[] args) {
 		
-		List al = new ArrayList();  //It will store all value like int and strings
+		ArrayList al = new ArrayList();  //It will store all value like int and strings
 		
 		
 		al.add("Dileep");

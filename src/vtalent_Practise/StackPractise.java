@@ -1,6 +1,6 @@
 package vtalent_Practise;
 
-import java.util.Stack;
+import java.util.*;
 
 public class StackPractise {
 

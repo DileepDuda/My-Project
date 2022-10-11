@@ -1,13 +1,12 @@
 package vtalent_Practise;
 
-import java.util.ArrayList;
-import java.util.Iterator;
+import java.util.*;
 
 class ArrayListPractise1{  
 	public static void main(String args[])
 	{  
 	ArrayList<String> list=new ArrayList<String>();  //Creating arraylist  
-	list.add("Dileep");   //Adding object in arraylist  
+	list.add("Dileep");            //Adding object in arraylist  
 	list.add("Madhu");  
 	list.add("Vihaan");  
 	list.add("Dileep");  

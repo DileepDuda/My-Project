@@ -24,7 +24,7 @@ public class OuterStatic {
 	
 		public static void main(String[] args)
 		{
-		  OuterStatic c = new OuterStatic(); //assigned value and excueted
+		  OuterStatic c = new OuterStatic(); //assigned value and executed
 		  c.i = 15;
 		  c.function();
 		  

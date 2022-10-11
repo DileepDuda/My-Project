@@ -1,6 +1,6 @@
-package vtalent_Practise;
+package com.producerconsumer.practise;
 
-public class MultipleInheritance {
+public class ProdConEx {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
